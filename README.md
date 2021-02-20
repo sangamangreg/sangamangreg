@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Sangam Angre,
+I'm Sangam Angre,
 
 ### A software engineer specialized in backend technologies.
 
