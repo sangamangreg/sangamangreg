@@ -44,4 +44,4 @@ I'm Sangam Angre,
 - ⚡ Fun fact: ...
   - Overweigh but did Sky Diving and Scuba Diving
   - Smiley face
-  - Cry watching emotional moviews.
+  - Cry watching emotional movies.
