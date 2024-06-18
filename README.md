@@ -4,15 +4,7 @@ I'm Sangam Angre,
 
 ### A software engineer specialized in backend technologies.
 
-- Founding member of two software companies that got acquired successfully.
-- 8+ years​ of experience in building ​SaaS​ products.
-- 4 years of experience in the education domain.
-- 4 years of experience in the customer engagement domain.
-- Fullstack developer with a passion for building meaningful products and more than 10 years of experience mostly in startups.
-- Talented, ambitious, and hardworking individual, with broad skills and experience in developing, managing, and leading software products.
-- A Technical leader who has built software products from the ground up, run large engineering teams and provided guidance at the executive and board level.
-- Motivated by product success and business growth, not technology for technology's sake.
-- Always interested in becoming a better technology leader, and meeting interesting people around the globe. 
+Experienced Web Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in web application design, development, testing, and maintenance. Equipped with a diverse and promising skill set. Proficient in various technologies, including Python, MySQL, PostgreSQL, JavaScript, and React. Able to effectively self-manage during independent projects and collaborate in a team.
   
 
 ### Few facts about me
@@ -24,7 +16,6 @@ I'm Sangam Angre,
 
 - 🌱 I’m currently learning ...
   - Next generation JavaScript
-  - Nodejs and React
   - Alogrithmic trading with Python
 
 - 👯 I’m looking to collaborate on ...
