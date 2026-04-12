@@ -111,7 +111,6 @@ Open to **Remote (Global / US) | Dubai | Product-based companies | High-scale sy
 ## 📫 Reach Me
 
 - LinkedIn: https://www.linkedin.com/in/sangamangre/  
-- Portfolio: https://sangamangreg.github.io/  
 
 ---
 
