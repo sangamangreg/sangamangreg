@@ -1,125 +1,130 @@
-# 🚀 Hi, I’m Sangam Angre  
+# 🚀 Hi, I'm Sangam Angre
 
-### Full-Stack Engineer | Backend-Focused | System Design | Scalable Systems  
+### Engineering Manager | Lead Backend Engineer | Distributed Systems | AI-Native Engineering
 
-Experienced software engineer with 14+ years of experience building **high-performance, scalable, and secure full-stack applications**.  
+Hands-on engineering leader with 15+ years building **high-throughput, reliable backend platforms and distributed systems** at scale.
 
-I specialize in **backend architecture, distributed systems, and end-to-end product development**, while also delivering intuitive frontend experiences.  
+I combine deep technical execution — writing production code daily, owning architecture, and driving reliability — with the leadership experience to align teams and ship complex platforms end to end.
 
-Open to **Remote (Global / US) | Dubai | Product-based companies | High-scale systems**
+Open to **Global Remote | Relocation with support | EM / Lead Backend / Staff IC roles**
 
 ---
 
 ## 💡 What I Do
 
-- Design and build **end-to-end full-stack applications**
-- Architect **scalable backend systems & APIs**
-- Develop **responsive, user-centric frontend experiences**
-- Ensure **performance, reliability, and security at scale**
-- Contribute with **product thinking, not just engineering execution**
+- Architect and build **distributed backend platforms and high-throughput APIs** (Java, Node.js, Python, TypeScript)
+- Design **cross-product platform solutions** from real customer requirements — clean contracts, clear boundaries, scalable systems
+- Build **AI-native engineering workflows** with Claude Code and LLM orchestration across the SDLC
+- Own **production reliability** end to end — incident management, RCA, observability, five-nines uptime
+- Lead and mentor engineering teams, setting **architecture, testing, and delivery standards**
 
 ---
 
 ## 🧠 Engineering & System Design Focus
 
-- ⚙️ **Scalability** — horizontal scaling, load handling, stateless design  
-- ⚡ **Performance** — latency reduction, query optimization, caching strategies  
-- 🔐 **Security** — authentication, authorization, secure APIs, data protection  
-- 🧩 **Architecture** — modular systems, clean architecture, microservices  
-- 📈 **Observability** — logging, monitoring, alerting, debugging  
+- ⚙️ **Scalability** — horizontal scaling, load handling, stateless design
+- ⚡ **Performance** — latency reduction, query optimisation, caching strategies
+- 🔐 **Security** — authentication, authorisation, secure APIs, data protection
+- 🧩 **Architecture** — microservices, event-driven systems, clean API contracts
+- 📈 **Observability** — structured logging, alerting, Kibana, Elasticsearch, Grafana, Datadog
 
 ### 🔧 System Design Capabilities
 
-- Designing **high-throughput APIs**
-- Building **distributed systems**
-- Implementing **caching (Redis-like patterns)**
-- Database design for **large-scale applications**
-- Handling **concurrency & fault tolerance**
-- Designing for **millions of users / high traffic scenarios**
+- Designing **high-throughput, low-latency APIs**
+- Building **distributed microservices and event-driven architectures**
+- Cross-product **shared platform API design** (heterogeneous stacks, single contract)
+- Database design for **large-scale, high-concurrency applications**
+- Handling **concurrency, fault tolerance, and graceful degradation**
+- Designing for **five-nines (99.999%) availability**
 
 ---
 
 ## 🤖 Modern Development Approach
 
-- Leveraging **AI tools (Copilot, AI-assisted development)** for productivity  
-- Automating workflows for **faster releases & reduced errors**  
-- Writing **testable, production-grade code**  
-- Focus on **developer efficiency + system reliability**
+- Building **AI agents with Claude Code** for PR review, design review, and test coverage
+- Practising **context engineering** — per-feature context repositories that agents pull from
+- Agentic workflow automation keyed off issue status across the full SDLC
+- Raised team delivery velocity **~50%** through AI-native development practices
+- Writing **testable, production-grade, test-driven code** daily
 
 ---
 
 ## 🛠️ Featured Projects
 
-### 📚 LMS Platform (Learning Management System)
-- Built a scalable platform for **online learning & content delivery**
-- Designed backend to support **high concurrent users**
-- Implemented modular architecture for **easy feature expansion**
-- Focus: **performance, scalability, maintainability**
+### 📣 Ad Engine — Campaign Decisioning Platform (BrowserStack)
+- Proposed and led design of a **central, API-driven campaign-decisioning platform** across 15+ products with heterogeneous stacks
+- Replaced promotional logic duplicated across product codebases with a **single shared API contract**
+- Shipped a **shared React package** for frontend integration across all products
+- Hybrid eligibility evaluation combining **current attributes + historical usage** at user and account level
+- Promotional logic **deliberately separated** from critical product rendering for fault isolation
+- Result: campaign launch cut from **3–5 days of engineering to ~2 hours of configuration**; 60+ campaigns in 9 months; ~1 developer-year of capacity freed
 
 ---
 
-### 💻 Online Coding Platform
-- Developed an interactive system for **real-time code execution**
-- Designed backend for **secure and isolated execution environments**
-- Optimized for **low latency and fast feedback**
-- Focus: **system reliability + execution performance**
+### 🤖 AI-Native SDLC (BrowserStack, 2025–present)
+- Built an internal **AI harness using Claude Code and LLM orchestration** targeting the most wasteful SDLC stages
+- Introduced **context engineering** — a per-feature context repository agents pull from at task time
+- Agentic automation keyed off Jira issue status across requirements, implementation, review, and testing
+- Result: **~50% combined improvement in delivery velocity** across target activities
 
 ---
 
-### 📣 Marketing Automation System
-- Built automation workflows for **real-world business use**
-- Reduced manual effort significantly through automation
-- Designed system for **high-volume event processing**
-- Focus: **scalability + business impact**
+### 📚 EdTech SaaS Platform (GreyAtom)
+- Built and scaled a **multitenant EdTech platform** serving **50,000+ concurrent learners**
+- Python (Django/Flask) backends, REST APIs, shared authentication, unified SSO, and data pipelines
+- Reduced production bug leakage **~80%** through automated regression coverage
+- Observability via Kibana and Grafana
 
 ---
 
-## 📊 Impact Highlights (Add/Update Numbers if Possible)
+## 📊 Impact Highlights
 
-- Reduced system latency by **X%**  
-- Improved performance under load by **X%**  
-- Automated workflows saving **X hours/week**  
-- Designed systems supporting **X+ users / requests**  
+- Cut campaign launch effort from **3–5 days → ~2 hours** (Ad Engine, 15+ products)
+- Freed **~1 developer-year of capacity** — 60+ campaigns shipped with zero per-campaign engineering
+- Raised team delivery velocity **~50%** through Claude Code AI tooling and context engineering
+- Sustained **five-nines (99.999%) platform availability** at BrowserStack
+- Reduced production bug leakage **~80%** at GreyAtom through automated regression coverage
+- Platform scaled to **50,000+ concurrent learners** at GreyAtom
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced frontend architecture & modern JS ecosystem  
-- High-scale system design patterns  
-- Algorithmic trading systems & data-driven architectures  
+- Agentic AI and **LLM orchestration across the full SDLC**
+- **Context engineering** for AI-assisted software development at team scale
+- High-scale distributed systems and **platform architecture patterns**
 
 ---
 
 ## 🤝 Open to Collaborate
 
-- Product development (0 → 1 or scaling phase)  
-- SaaS platforms  
-- Domains: **Fintech | Healthcare | Education | Deep-tech**
+- Backend platform and **distributed systems engineering**
+- **AI-native tooling** and developer productivity infrastructure
+- Domains: **FinTech | Developer Tools | SaaS Platforms | EdTech**
 
 ---
 
 ## 💬 Ask Me About
 
-- System design & backend architecture  
-- Scaling applications  
-- Startup engineering challenges  
-- Transitioning from service → product mindset  
+- Engineering management and **hands-on technical leadership**
+- Building **AI agents and LLM-powered workflows** with Claude Code
+- Distributed systems, microservices, and **platform architecture**
+- Sustaining **high availability and reliability** at scale
 
 ---
 
 ## 📫 Reach Me
 
-- LinkedIn: https://www.linkedin.com/in/sangamangre/  
+- LinkedIn: https://www.linkedin.com/in/sangamangre/
 
 ---
 
 ## ⚡ Fun Side
 
-- Did **Skydiving & Scuba Diving** 😄  
-- Emotional movie fan 🎬  
-- Always learning, always building  
+- Did **Skydiving & Scuba Diving** 😄
+- Emotional movie fan 🎬
+- Always learning, always building
 
 ---
 
-⭐️ *If you're hiring for backend-heavy full-stack roles, system design, or product engineering — let’s connect!*
+⭐️ *If you're hiring for backend platform engineering, distributed systems, or engineering leadership — let's connect!*
